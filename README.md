@@ -1,17 +1,16 @@
 <!-- HERO SECTION -->
 <div align="center">
-  <!-- This is the Typing Animation - It looks like you are coding live -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=F75C03&center=true&vCenter=true&width=500&lines=Vaazhga+Valamudan+%E2%9C%A8;I+am+Vinojan.;The+Digital+Fixer.;Web+%7C+Creative+Media+%7C+AI;Learning+Sinhala...+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+    <!-- CHANGE 'Vinojan+Kumar' TO YOUR REAL NAME BELOW -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=F75C03&center=true&vCenter=true&width=500&lines=Vaazhga+Valamudan+%E2%9C%A8;I+am+Vinojan;The+Digital+Fixer;Web+%7C+Creative+%7C+AI" alt="Typing SVG" />
   </a>
 </div>
-
     
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Vinojan&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" alt="Vinojan Banner"/>
 </div>
 
-  
+
 
 <div align="center">
   <h3>🎨 Visualizing Ideas. 💻 Solving Problems.</h3>
