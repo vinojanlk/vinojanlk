@@ -8,8 +8,7 @@
 
     
 <div align="center">
-  <!-- CHANGE 'banner.png' TO THE EXACT NAME OF THE FILE YOU UPLOADED -->
-  <img src="banner.png" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Vinojan Banner"/>
+  <img src="/banner.png" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Vinojan Banner"/>
 </div>
 
   
