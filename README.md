@@ -8,7 +8,7 @@
 
     
 <div align="center">
-  <img src="/banner.png" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Vinojan Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Vinojan&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" alt="Vinojan Banner"/>
 </div>
 
   
