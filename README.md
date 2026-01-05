@@ -6,10 +6,13 @@
   </a>
 </div>
 
+    
 <div align="center">
-  <!-- Replace this URL below with your 'Digital Dissolve' Image URL after you upload it to the repo! -->
-  <img src="https://i.imgur.com/8Q5qX8B.png" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Vinojan Banner"/>
+  <!-- CHANGE 'banner.png' TO THE EXACT NAME OF THE FILE YOU UPLOADED -->
+  <img src="banner.png" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Vinojan Banner"/>
 </div>
+
+  
 
 <div align="center">
   <h3>🎨 Visualizing Ideas. 💻 Solving Problems.</h3>
